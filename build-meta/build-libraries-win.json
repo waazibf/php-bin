@@ -1,7 +1,8 @@
 [
-    "bzip2",
     "zlib",
     "openssl",
+    "librabbitmq",
+    "bzip2",
     "libssh2",
     "libiconv-win",
     "libxml2",
