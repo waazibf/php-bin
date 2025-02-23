@@ -1,7 +1,8 @@
 [
-    "bzip2",
     "zlib",
     "openssl",
+    "librabbitmq",
+    "bzip2",
     "libiconv",
     "libxml2",
     "curl",
